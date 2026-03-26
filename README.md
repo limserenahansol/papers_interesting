@@ -7,6 +7,7 @@ Archive of **paper discussions**: summaries, notes, and (when provided) source f
 | Path | Purpose |
 | --- | --- |
 | [`entries/`](entries/) | One Markdown file per paper thread (summary + conversation excerpt + metadata) |
+| [`summaries/`](summaries/) | Standalone long-form summaries of specific PDFs (cross-linked from entries) |
 | [`files/`](files/) | Optional attachments (PDFs, excerpts) linked from entries; use sensible names |
 
 ## Entry file naming

@@ -1,5 +1,7 @@
 # Nature 2026 — brain sugar sensor & aversive memory (+ `papers_2026_notes.md`)
 
+**Full write-up (recommended):** [`summaries/Francés_et_al_2026_Nature_aversive_learning_sugar_sensor.md`](../summaries/Francés_et_al_2026_Nature_aversive_learning_sugar_sensor.md)
+
 ## User request
 
 Upload `papers_2026_notes.md` and `s41586-026-10306-z.pdf` with summary to [papers_interesting](https://github.com/limserenahansol/papers_interesting).
@@ -34,3 +36,7 @@ That document is a **separate notebook** with structured notes on **five differe
 - User supplied a local notes markdown path and a Nature PDF.
 - PDF text identifies the article as Francés et al. on **Drosophila** fructose-sensing neurons, spaced training, and **LTM / thyrostimulin**—not the opioid/CGRP manuscript summarized in section 1 of the notes file.
 - Both files were copied into `papers_interesting`, this entry documents the distinction, and changes were pushed to GitHub.
+
+### Follow-up
+
+- User asked for a **standalone written summary** of this PDF (not only the file). Added [`summaries/Francés_et_al_2026_Nature_aversive_learning_sugar_sensor.md`](../summaries/Francés_et_al_2026_Nature_aversive_learning_sugar_sensor.md) with structured sections (background, results, AND-gate framing, significance).
